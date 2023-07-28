@@ -5,6 +5,7 @@
 <br/>
 
 ### 👉 Web Dev Simplified 
+#### Javascript | React.js | Next.js | Front-end
 구독자: 136만<br/>
 [Go to youtube channel](https://www.youtube.com/@WebDevSimplified)
 ```
@@ -14,6 +15,7 @@ React , Next.js를 중심적으로 다루며 리액트로 구현 할 수 있는 
 
 
 ### 👉 PedroTech
+#### React.js | Next.js | Front-end
 구독자: 15.9만<br/>
 [Go to youtube channel](https://www.youtube.com/@PedroTechnologies)
 ```
@@ -23,6 +25,7 @@ React , Next.js를 중심적으로 다루며 리액트로 구현 할 수 있는 
 ```
 
 ### 👉 developedbyed
+#### Javascript | React.js | Next.js | Front-end
 구독자: 87.5만<br/>
 [Go to youtube channel](https://www.youtube.com/@developedbyed)
 ```
@@ -31,6 +34,7 @@ React , Next.js를 중심적으로 다루며 리액트로 구현 할 수 있는 
 
 
 ### 👉 Matt Pocock
+#### Typescript | React 
 구독자: 6.85만<br/>
 [Go to youtube channel](https://www.youtube.com/@mattpocockuk)
 ```
@@ -40,6 +44,7 @@ Typescript 강좌는 거의 이 채널에서 챙겨보는 편. 개인적으로 T
 ```
 
 ### 👉 Josh tried coding
+#### React | Next.js
 구독자: 6.85만<br/>
 [Go to youtube channel](https://www.youtube.com/@joshtriedcoding)
 ```
@@ -48,6 +53,7 @@ Next.js13 이나 React의 신기술 위주로 다루는 편이고 리액트 라�
 ```
 
 ### 👉 Code with Antonio
+#### Next.js 13 | React 
 구독자: 6.5만<br/>
 [Go to youtube channel](https://www.youtube.com/@codewithantonio)
 ```
@@ -57,6 +63,7 @@ Next.js13 이나 React의 신기술 위주로 다루는 편이고 리액트 라�
 ```
 
 ### 👉 One Minute Coder
+#### Javascript
 구독자: 1.9만<br/>
 [Go to youtube channel](https://www.youtube.com/@oneminutecoder)
 ```
@@ -65,6 +72,7 @@ Next.js13 이나 React의 신기술 위주로 다루는 편이고 리액트 라�
 ```
 
 ### 👉 IBM technology 
+#### Web development
 구독자: 50만<br/>
 [Go to youtube channel](https://www.youtube.com/@IBMTechnology)
 ```
@@ -72,6 +80,7 @@ Next.js13 이나 React의 신기술 위주로 다루는 편이고 리액트 라�
 ```
 
 ### 👉 Jack Herrington
+####   React | Next.js
 구독자: 14만<br/>
 [Go to youtube channel](https://www.youtube.com/@jherr)
 ```
@@ -80,13 +89,15 @@ Next.js13 이나 React의 신기술 위주로 다루는 편이고 리액트 라�
 
 
 ### 👉 Coding Nepal
+####   HTML | CSS | Javascript
 구독자: 19.7만<br/>
 [Go to youtube channel](https://www.youtube.com/@CodingNepal)
 ```
 HTML , CSS , Javscript 로 간단한 토이 프로젝트를 구현 하는편, CSS 애니메이션 효과 포스팅에 중점을 두는편.
 ```
 
-### 👉 Dave Gray 
+### 👉 Dave Gray
+####   React | Next.js | GraphQL
 구독자: 19만<br/>
 [Go to youtube channel](https://www.youtube.com/@DaveGrayTeachesCode)
 ```
@@ -96,6 +107,7 @@ React + Graphql 맛보기로 배운 강의가 괜찮았던편.
 
 
 ### 👉 Conner Ardman
+####   Javscript
 구독자: 2.5만<br/>
 [Go to youtube channel](https://www.youtube.com/@ConnerArdman)
 ```
@@ -104,6 +116,7 @@ React + Graphql 맛보기로 배운 강의가 괜찮았던편.
 ```
 
 ### 👉 Web Dav Cody
+####   React | Next.js | SPA | Javascript
 구독자: 13.7만<br/>
 [Go to youtube channel](https://www.youtube.com/@WebDevCody)
 ```
@@ -113,6 +126,7 @@ svelte, react ,vue 그리고 angular 와 같은 거의 모든 SPA 프레임워�
 
 
 ### 👉 Online Turtorials
+####   HTML | CSS | Javasript
 구독자: 90만<br/>
 [Go to youtube channel](https://www.youtube.com/@OnlineTutorialsYT)
 ```
@@ -120,6 +134,7 @@ HTML, CSS 위주로 퍼블리싱 하는 포스팅이 자주 올라오는편이�
 ```
 
 ### 👉 Coding with Dawid
+####   React | Next.js
 구독자: 3.6만<br/>
 [Go to youtube channel](https://www.youtube.com/@CodingWithDawid)
 ```
@@ -128,7 +143,8 @@ API구현 까지 같이해서 재밌는 프로젝트가 꽤 있음.
 ```
 
 
-#### 👉 Lama Dev
+### 👉 Lama Dev
+####   React | Next.js
 구독자: 22.9만<br/>
 [Go to youtube channel](https://www.youtube.com/@LamaDev)
 ```
@@ -138,7 +154,8 @@ API구현 까지 같이해서 재밌는 프로젝트가 꽤 있음.
 ```
 
 
-#### 👉 Steve (Builder.io)
+### 👉 Steve (Builder.io)
+####   React | Next.js
 구독자: 5.3만<br/>
 [Go to youtube channel](https://www.youtube.com/@Steve8708)
 ```
