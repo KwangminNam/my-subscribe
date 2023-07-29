@@ -9,8 +9,9 @@
 구독자: 136만<br/>
 [Go to youtube channel](https://www.youtube.com/@WebDevSimplified)
 ```
-React , Next.js를 중심적으로 다루며 리액트로 구현 할 수 있는 기능과 게임을 만들어보면서 가르치는 편.
+리액트 , Next.js를 중심적으로 다루며 리액트로 구현 할 수 있는 기능과 게임을 만들어보면서 가르치는 편.
 동시에 코드를 어떻게 쓰면 실수를 방지하고 잘쓰는지에 대한 영상도 많이 올라와있음.
+그 외에 Graphql , node.js 등 다른 기술들도 포스팅 하는 편
 ```
 
 
@@ -21,7 +22,7 @@ React , Next.js를 중심적으로 다루며 리액트로 구현 할 수 있는 
 ```
 리액트 위주의 강의가많으며 , 설명도 깔끔하게 하는편.
 리액트 관련 라이브러리 공부할때 PedroTech 영상을 많이 참조 하였고, 가끔 node.js SQL 과같은 강의도 올라옴.
-최근엔 webSocket에 대해서 찍먹 하려고 검색하다가 Chatapp 프로젝트 하나 만들어봄 강의가 쉽고 재밌는편
+최근엔 webSocket에 대해서 찍먹 하려고 검색하다가 Chatapp 프로젝트 하나 만들어봄 강의가 쉽고 재밌는편.
 ```
 
 ## 👉 developedbyed
@@ -29,7 +30,7 @@ React , Next.js를 중심적으로 다루며 리액트로 구현 할 수 있는 
 구독자: 87.5만<br/>
 [Go to youtube channel](https://www.youtube.com/@developedbyed)
 ```
-영상에 혼잣말을 너무 많이 하는거같기도한데 ,전반적인 프론트엔드 스킬을 포스팅하는 편이고 ,React hook 과 JS의 기초 및 클린코드 위주로 포스팅 하는 편
+영상에 혼잣말을 너무 많이 하는거같기도한데 ,전반적인 프론트엔드 스킬을 포스팅하는 편이고 ,React hook 과 JS의 기초 및 클린코드 위주로 포스팅 하는 편.
 ```
 
 
@@ -49,7 +50,7 @@ Typescript 강좌는 거의 이 채널에서 챙겨보는 편. 개인적으로 T
 [Go to youtube channel](https://www.youtube.com/@joshtriedcoding)
 ```
 비교적 최근에 구독하게 된 유튜버인데 , 독일사람인지 발음이 굉장히 강렬함..
-Next.js13 이나 React의 신기술 위주로 다루는 편이고 리액트 라이브러리를 많이 다루는편
+Next.js13 이나 React의 신기술 위주로 다루는 편이고 리액트 라이브러리를 많이 다루는편.
 ```
 
 ## 👉 Code with Antonio
@@ -68,7 +69,7 @@ Next.js13 이나 React의 신기술 위주로 다루는 편이고 리액트 라�
 [Go to youtube channel](https://www.youtube.com/@oneminutecoder)
 ```
 구독자는 적은편인데 거의 숏츠 위주로 포스팅을 함
-자바스크립트의 메소드 위주로 다루며, 짧게 보고 팁을 얻는 경우가 꽤 있음. 영상에 말을 하면서 올리는 포스팅은 거의 없고 자막으로 대채하는편.
+자바스크립트 위주로 다루며, 짧게 보고 팁을 얻는 경우가 꽤 있음. 영상에 말을 하면서 올리는 포스팅은 거의 없고 자막으로 대채하는편.
 ```
 
 ## 👉 IBM technology 
@@ -149,7 +150,7 @@ API구현 까지 같이해서 재밌는 프로젝트가 꽤 있음.
 [Go to youtube channel](https://www.youtube.com/@LamaDev)
 ```
 리액트 위주로 다루고있고 , 인도 사람인지 ,발음이 좀 특이하긴한데 잘 가르치는편.
-리액트 훅을 쓸때 어떻게하면 더 잘쓰고 ,  주니어개발자들이 실수를 방지하는 포스팅을 꽤 하는편
+리액트 hook을 쓸때 어떻게하면 더 잘쓰고 ,  주니어개발자들이 실수를 방지하는 포스팅을 꽤 하는편
 또 4~5시간 분량의 프로젝트도 꽤 있음. 
 ```
 
@@ -162,6 +163,17 @@ API구현 까지 같이해서 재밌는 프로젝트가 꽤 있음.
 자바스크립트와 리액트 위주로 포스팅을 하는편이고 , 숏츠를 애용해서 보는편
 귀에 쏙쏙 박히게 잘 강의 하는듯함.
 ```
+
+## 👉 Sonny Sangha
+####   React | Next.js
+구독자: 22만<br/>
+[Go to youtube channel](https://www.youtube.com/@SonnySangha/videos)
+```
+리액트 , next.js 위주로 다루고 4~5시간 분량 토이 프로젝트와 css 신기술 관련해서도
+꽤 포스팅 하는 편
+```
+
+
 
 
 
