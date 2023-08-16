@@ -14,6 +14,14 @@
 그 외에 Graphql , node.js 등 다른 기술들도 포스팅 하는 편
 ```
 
+## 👉Javascript Mastery
+#### Javascript | React.js | Next.js | Front-end
+구독자: 67.4만<br/>
+[Go to youtube channel](https://www.youtube.com/@javascriptmastery)
+```
+리액트 , Next.js를 중심적으로 다루며 리액트, Next.js로 3~5시간 분량의 서비스 자체를 만드는 영상이 많음.
+리액트 기반의 풀스택 영상이 많음
+```
 
 ## 👉 PedroTech
 #### React.js | Next.js | Front-end
